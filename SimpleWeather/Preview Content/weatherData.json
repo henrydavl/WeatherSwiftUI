@@ -1,0 +1,46 @@
+{
+    "coord": {
+        "lon": 120,
+        "lat": -5
+    },
+    "weather": [
+        {
+            "id": 804,
+            "main": "Clouds",
+            "description": "overcast clouds",
+            "icon": "04d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 21.41,
+        "feels_like": 22.06,
+        "temp_min": 21.41,
+        "temp_max": 21.41,
+        "pressure": 1010,
+        "humidity": 94,
+        "sea_level": 1010,
+        "grnd_level": 964
+    },
+    "visibility": 424,
+    "wind": {
+        "speed": 5.63,
+        "deg": 271,
+        "gust": 14.4
+    },
+    "clouds": {
+        "all": 100
+    },
+    "dt": 1638843464,
+    "sys": {
+        "type": 1,
+        "id": 9325,
+        "country": "ID",
+        "sunrise": 1638826774,
+        "sunset": 1638871409
+    },
+    "timezone": 28800,
+    "id": 1643084,
+    "name": "Indonesia",
+    "cod": 200
+}
